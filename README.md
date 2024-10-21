@@ -5,6 +5,8 @@ Me llamo José Antonio Muñoz Sarmiento y soy Web Developer y Data Analyst. He f
 
 Estoy iniciando mi camino en el mundo de la programación y me encuentro en búsqueda activa de empleo. Si me contratan, no se arrepentirán: soy una persona muy trabajadora, constante y siempre dispuesta a aprender y mejorar.
 
+https://github.com/user-attachments/assets/7f1fbce6-de23-4de8-9e96-22618212d4d7
+
 Áreas de formación:
 
 🖥️ Web Developer: Front-End con HTML, CSS, JavaScript, React.
