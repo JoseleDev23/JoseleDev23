@@ -9,7 +9,7 @@ Estoy iniciando mi camino en el mundo de la programación y me encuentro en bús
 
 🖥️ Web Developer: Front-End con HTML, CSS, JavaScript, React.
 
-📊 Data Analyst: Análisis de datos, Big Data, Python, SQL.
+📊 Data Analyst: Análisis de datos, Big Data, Python, SQL.(Formandome)
 
 Contacto:
 
