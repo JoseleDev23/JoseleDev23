@@ -3,7 +3,7 @@
 Sobre mí
 Me llamo José Antonio Muñoz Sarmiento, He finalizado mi formación como Técnico Superior en Desarrollo de Aplicaciones Web y actualmente estoy comenzando un Máster en Inteligencia Artificial y Big Data. Además, cuento con experiencia práctica como desarrollador.
 
-Estoy iniciando mi camino en el mundo de la programación y me encuentro en búsqueda activa de empleo. Si me contratan, no se arrepentirán: soy una persona muy trabajadora, constante y siempre dispuesta a aprender y mejorar.
+Estoy iniciando mi camino en el mundo de la programación y me encuentro en búsqueda activa de empleo. Soy una persona muy trabajadora, constante y siempre dispuesta aprender y mejorar.
 
 ![Banner Github](https://github.com/user-attachments/assets/00d01610-5696-4d2c-a6fa-b667b85ec65a)
 
