@@ -13,9 +13,9 @@ Estoy iniciando mi camino en el mundo de la programación y me encuentro en bús
 
 Contacto:
 
-🌐 Portfolio
+🌐 Portfolio : wwww.joseledev.es
 
-💼 LinkedIn
+💼 LinkedIn: www.linkedin.com/in/jose-antonio-muñoz-sarmiento-1b151637
 
 ✉️ Email: joseamsarmiento@gmail.com
 
