@@ -9,9 +9,9 @@ Estoy iniciando mi camino en el mundo de la programación y me encuentro en bús
 
 Áreas de formación:
 
-🖥️ Web Developer: Front-End con HTML, CSS, JavaScript, React.
+🖥️ Web Developer: Front-End con HTML, CSS, JavaScript, React, SQL.
 
-📊 Data Analyst: Análisis de datos, Big Data, Python, SQL.(Formandome)
+📊 Data Analyst: Análisis de datos, Big Data, Python (Formandome)
 
 Contacto:
 
