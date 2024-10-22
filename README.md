@@ -1,6 +1,6 @@
-¡Hola! 👋 Bienvenidos a mi GitHub JoseleDev
+# ¡Hola! 👋 Bienvenidos a mi GitHub JoseleDev
 
-Sobre mí
+## Sobre mí
 Me llamo José Antonio Muñoz Sarmiento, He finalizado mi formación como Técnico Superior en Desarrollo de Aplicaciones Web y actualmente estoy comenzando un Máster en Inteligencia Artificial y Big Data. Además, cuento con experiencia práctica como desarrollador.
 
 Estoy iniciando mi camino en el mundo de la programación y me encuentro en búsqueda activa de empleo. Soy una persona muy trabajadora, constante y siempre dispuesta aprender y mejorar.
