@@ -17,7 +17,7 @@ Estoy iniciando mi camino en el mundo de la programación y me encuentro en bús
 
 🌐 [Portfolio](https://www.joseledev.es/)
 
-💼 [LinkedIn](https://www.linkedin.com/in/jose-antonio-muñoz-sarmiento-1b151637)
+💼 [LinkedIn](https://www.linkedin.com/in/joseledev)
 
 ✉️ Email: joseamsarmiento@gmail.com
 
