@@ -13,7 +13,7 @@ Estoy iniciando mi camino en el mundo de la programación y me encuentro en bús
 
 📊 Data Analyst: Análisis de datos, Big Data, Python (Formandome)
 
-Contacto:
+📬 Contacto:
 
 🌐 [Portfolio](https://www.joseledev.es/)
 
