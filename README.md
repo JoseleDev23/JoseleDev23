@@ -1,7 +1,7 @@
 # Hello! 👋 Welcome to my GitHub, JoseleDev.
 
-## About Me My name is José Antonio Muñoz Sarmiento. I have completed my training as a Web Application Development Technician, and I am currently beginning a Master’s in Artificial Intelligence and Big Data. I also have practical experience as a developer.
-
+## About Me 
+My name is José Antonio Muñoz Sarmiento. I have completed my training as a Web Application Development Technician, and I am currently beginning a Master’s in Artificial Intelligence and Big Data. I also have practical experience as a developer.
 I'm starting my journey in the programming world and am actively seeking employment. I am a hardworking, persistent person, always eager to learn and improve.
 
 ![Banner Github](https://github.com/user-attachments/assets/00d01610-5696-4d2c-a6fa-b667b85ec65a)
