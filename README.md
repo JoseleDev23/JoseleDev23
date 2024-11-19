@@ -8,7 +8,7 @@ I'm starting my journey in the programming world and am actively seeking employm
 
 Áreas de formación:
 
-🖥️ Web Developer: Front-End con HTML, CSS, JavaScript, React, SQL.
+🖥️ Web Developer: HTML, CSS, JavaScript, React, SQL, PHP.
 
 📊 Data Analyst: Análisis de datos, Big Data, Python (Formandome)
 
