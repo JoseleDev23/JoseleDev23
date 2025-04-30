@@ -52,8 +52,17 @@ I bring hands-on experience building full-stack applications and working on data
   Performed exploratory data analysis, preprocessing, and model evaluation with Apache Spark.  
   👉 [🔗 View the interactive Databricks Notebook](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3362857327941432/3669163458372487/407536127017787/latest.html)
 
-- 🧠 NLP with Don Quixote (spaCy):  
-  Applied tokenization and lemmatization techniques to analyze a large Spanish literary dataset using Python and NLP libraries.
+- 🛫 Flight Delay Analysis with Apache Spark (Databricks Notebook):
+  Exploratory and operational analysis of flight delays in the U.S. using Spark DataFrames, Spark SQL, and RDDs on Databricks.  
+  Key tasks included:
+  - Identifying top 5 airlines with most delayed arrivals (>15 min)
+  - Finding top 5 destination airports with highest in-flight delay recovery
+  - Using Spark RDDs to compute average student grades from unstructured text
+  
+  ✅ Technologies: PySpark, Spark SQL, Spark RDD, Databricks, DBFS  
+  📊 Dataset: US Flight Delays and Airport Data (from Kaggle)  
+  👉 [🔗 View Databricks Notebook (public link)](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3362857327941432/3669163458372549/407536127017787/latest.html)
+
 
 ## 📬 Contact
 - 🌐 [Portfolio](https://www.joseledev.es)
