@@ -36,6 +36,17 @@ I bring hands-on experience building full-stack applications and working on data
   Trained over 10 epochs, reaching **99.24% accuracy** on test data.  
   Final test loss: 0.041, optimizer: **Adam**, loss function: categorical_crossentropy.
 
+- 🌸 [Iris Dataset – Classification & Visualization (Colab Notebook)](https://colab.research.google.com/drive/1-_SElWFiRExhNIFuqlvPHWzqklue8cwz?usp=sharing):  
+  Exploratory data analysis and classification modeling using the classic **Iris dataset**.  
+  Includes feature engineering with Pandas, multiple scatterplots by species using Matplotlib, and the training of classification models:  
+  - Logistic Regression  
+  - Support Vector Machines (SVC)  
+  - K-Nearest Neighbors (KNN)  
+  - Decision Tree Classifier  
+  
+  Also includes a comparison of model performance using full feature sets vs only sepal measurements.  
+  **Top accuracy:** 96.67% with full data | **Best sepal-only model:** KNN – 80.00%
+
 - 🌦️ Weather Prediction (Rain in Australia dataset):  
   Built multiple ML models (Logistic Regression, KNN, SVM, Decision Tree) to predict rainfall. Applied EDA, tuning, and overfitting control using TensorBoard.
 
