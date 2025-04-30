@@ -18,14 +18,6 @@ I bring hands-on experience building full-stack applications and working on data
 
 ## 🧪 Featured Projects
 
-### 🕸️ Web Development
-
-- 🚁 [Drink & Drone – Final Project](https://github.com/JoseleDev23/TFG)  
-  A web platform for event beverage delivery using drones.  
-  Built with HTML, CSS, JS, and PHP. Includes responsive UI, contact form, and product catalog.
-
----
-
 ### 🤖 Deep Learning
 
 - 🧠 [Image Classification on CIFAR-10 (Colab Notebook)](https://colab.research.google.com/drive/1YG9TFHizrn6de0ehvXHV1udpMzTFFaaH?usp=sharing)  
@@ -90,6 +82,15 @@ I bring hands-on experience building full-stack applications and working on data
 
   ✅ Technologies: Python, MapReduce, mrjob, Jupyter/Colab, CSV parsing, regex, text cleaning  
   📊 Datasets: `notas.txt`, *Don Quixote* (Gutenberg), La Liga 2021/2022 results
+
+---
+
+### 🕸️ Web Development
+
+- 🚁 [Drink & Drone – Final Project](https://github.com/JoseleDev23/TFG)  
+  A web platform for event beverage delivery using drones.  
+  Built with HTML, CSS, JS, and PHP. Includes responsive UI, contact form, and product catalog.
+
 
 ## 📬 Contact
 - 🌐 [Portfolio](https://www.joseledev.es)
