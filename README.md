@@ -91,6 +91,7 @@ I bring hands-on experience building full-stack applications and working on data
   A web platform for event beverage delivery using drones.  
   Built with HTML, CSS, JS, and PHP. Includes responsive UI, contact form, and product catalog.
 
+---
 
 ## 📬 Contact
 - 🌐 [Portfolio](https://www.joseledev.es)
