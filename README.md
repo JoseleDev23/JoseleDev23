@@ -1,7 +1,5 @@
 # 👋 Hello! Welcome to my GitHub — I'm JoseleDev
 
-![Banner Github](https://github.com/user-attachments/assets/00d01610-5696-4d2c-a6fa-b667b85ec65a)
-
 ## 🙋‍♂️ About Me
 Hi! I'm José Antonio Muñoz Sarmiento, a passionate **Web Developer**, **Data Analyst**, and **AI & Big Data Specialist** based in Miami, FL.
 
@@ -27,6 +25,17 @@ I bring hands-on experience building full-stack applications and working on data
   Deep learning model built with TensorFlow/Keras to classify images from the CIFAR-10 dataset (airplanes, cats, cars, etc.).  
   Includes data preprocessing, CNN architecture, model training, and evaluation. Visualization of accuracy/loss curves with Matplotlib.
 
+- 📉 [Linear Regression with TensorFlow (Colab Notebook)](https://colab.research.google.com/drive/1m1brqewgE81qo0-6M7Ziogfc7nS4fLyJ?usp=sharing):  
+  A regression model trained on synthetic data generated from the equation y = 0.4x + 1.  
+  The model uses a two-layer neural network, MSE loss function, and SGD optimizer.  
+  Includes training with TensorBoard visualization and predictions compared to expected values.
+
+- 🔢 [CNN for Handwritten Digit Recognition (MNIST) – Colab Notebook](https://colab.research.google.com/drive/1DqQcuBgJjCCR0K3d42HpBlemqX11o850?usp=sharing):  
+  Custom Convolutional Neural Network (CNN) built with TensorFlow/Keras to classify handwritten digits from the MNIST dataset.  
+  Includes Conv2D layers, max pooling, dropout regularization, and a softmax output layer.  
+  Trained over 10 epochs, reaching **99.24% accuracy** on test data.  
+  Final test loss: 0.041, optimizer: **Adam**, loss function: categorical_crossentropy.
+
 - 🌦️ Weather Prediction (Rain in Australia dataset):  
   Built multiple ML models (Logistic Regression, KNN, SVM, Decision Tree) to predict rainfall. Applied EDA, tuning, and overfitting control using TensorBoard.
 
@@ -43,10 +52,10 @@ I bring hands-on experience building full-stack applications and working on data
 _Thanks for stopping by! Feel free to explore my repositories or reach out if you’re interested in working together._
 
 
-
-
 <!--
 **JoseleDev23/JoseleDev23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![Banner Github](https://github.com/user-attachments/assets/00d01610-5696-4d2c-a6fa-b667b85ec65a)
 
 Here are some ideas to get you started:
 
