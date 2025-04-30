@@ -1,10 +1,10 @@
 # 👋 Hello! Welcome to my GitHub — I'm JoseleDev
 
 ## 🙋‍♂️ About Me
-Hi! I'm José Antonio Muñoz Sarmiento, a passionate **Web Developer**, **Data Analyst**, and **AI & Big Data Specialist** based in Miami, FL.
+Hi! I'm José Antonio Muñoz Sarmiento,**Web Developer**, **Data Analyst**, and **AI & Big Data Specialist** based in Miami, FL.
 
 I hold an Associate Degree in Web Application Development and have recently completed a **Master´s Degree in Artificial Intelligence & Big Data**.  
-I bring hands-on experience building full-stack applications and working on data-driven AI projects. I’m actively looking for job opportunities where I can grow, contribute, and keep learning.
+I bring hands-on experience building full-stack applications and working on data-driven AI projects. I actively seek career opportunities where I can grow, contribute, and add value to a company.
 
 ## 💼 Skills
 
@@ -47,8 +47,10 @@ I bring hands-on experience building full-stack applications and working on data
   Also includes a comparison of model performance using full feature sets vs only sepal measurements.  
   **Top accuracy:** 96.67% with full data | **Best sepal-only model:** KNN – 80.00%
 
-- 🌦️ Weather Prediction (Rain in Australia dataset):  
-  Built multiple ML models (Logistic Regression, KNN, SVM, Decision Tree) to predict rainfall. Applied EDA, tuning, and overfitting control using TensorBoard.
+- 🌦️ Weather Prediction (Rain in Australia dataset):
+  Built multiple ML models (Logistic Regression, KNN, SVM, Decision Tree) to predict rainfall using Spark MLlib on Databricks.  
+  Performed exploratory data analysis, preprocessing, and model evaluation with Apache Spark.  
+  👉 [🔗 View the interactive Databricks Notebook](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3362857327941432/3669163458372487/407536127017787/latest.html)
 
 - 🧠 NLP with Don Quixote (spaCy):  
   Applied tokenization and lemmatization techniques to analyze a large Spanish literary dataset using Python and NLP libraries.
