@@ -1,4 +1,4 @@
-# 👋 Hello! Welcome to my GitHub — I'm JoseleDev
+# 👋 Hello! Welcome to my GitHub I'm JoseleDev
 
 ## 🙋‍♂️ About Me
 Hi! I'm José Antonio Muñoz Sarmiento,**Web Developer**, **Data Analyst**, and **AI & Big Data Specialist** based in Miami, FL.
